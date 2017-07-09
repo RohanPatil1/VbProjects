@@ -1,0 +1,12 @@
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\bin\Debug\FinalofProject1.exe
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\bin\Debug\FinalofProject1.pdb
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\bin\Debug\FinalofProject1.xml
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.Form1.resources
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.Resources.resources
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.vbproj.GenerateResource.Cache
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.exe
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.xml
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.pdb
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.Form2.resources
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.Form3.resources
+D:\Rohan\VB.net\MYpractice\FinalofProject1\FinalofProject1\obj\x86\Debug\FinalofProject1.Form4.resources
